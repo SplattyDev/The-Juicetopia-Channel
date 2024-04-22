@@ -9,21 +9,16 @@ The Juicetopia channel is a customized version of the Homebrew channel.
 
 # Installing
 
-ALWAYS USE A BRICK PROTECTION BEFORE INSTALLING THIS WAD ON YOUR WII! I AM NOT RESPONSIBLE FOR BRICKED CONSOLES!
-
-# If you're installing TJTC on a real console:
+## If you're installing TJTC on a real console:
 - Download the WAD file.
-- Put it on the Wii's SD card / USB device.
+- Put it on the Wii/Wii U's SD card / USB device.
 - Install it by using your preferred tool.
 
-# If you're installing TJTC on Dolphin:
+## If you're installing TJTC on Dolphin:
 - Download the WAD file.
 - Install it by using the built-in function in Dolphin.
 
-# DONE!
 
-
-# TODO
+### TODO
 
 - Fix music loop problems
-- Add forwarding to the HBC menu
