@@ -17,8 +17,3 @@ The Juicetopia channel is a customized version of the Homebrew channel.
 ### If you're installing TJTC on Dolphin:
 - Download the WAD file.
 - Install it by using the built-in function in Dolphin.
-
-
-### TODO
-
-- Fix music loop problems
